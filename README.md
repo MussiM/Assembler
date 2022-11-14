@@ -31,5 +31,5 @@ For incorrect files the assembler script prints error masseges.
    ```
 3. Run this command to start the project:
    ```js
-   ./a correctInput wrongInput
+   ./a correctInput incorrectInput
    ```
